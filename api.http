@@ -12,3 +12,6 @@ Content-Type: application/json
 
 ### LOGOUT
 POST http://localhost:3000/auth/logout
+
+### PROTECTED
+POST http://localhost:3000/auth/protected
